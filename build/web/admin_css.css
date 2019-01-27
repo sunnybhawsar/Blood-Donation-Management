@@ -1,0 +1,55 @@
+.menu_divz
+{
+margin-top:5px; height:60px; width:100%; background-color:teal; overflow:hidden;
+}
+
+
+.menu_logoz
+{
+float:left; padding:0px; height:60px; width:25%; color:white; transition:0.2s; background-color:teal;
+} 
+.menu_logoz:hover
+{
+color:#cccccc;
+}
+
+
+
+.menuz
+{
+float:left;  height:60px; width:12.5%; color:white; transition:0.2s; background-color:teal; transition:0.5s;
+} 
+.menuz:hover
+{
+ color:#cccccc;  background-color:#111;
+}
+
+
+.mmz
+{
+font-size:22px; font-family:'batang'; margin-top:19px; padding-left:0px; font-weight:800;
+}
+
+.mz
+{
+font-size:15px; font-family:'batang'; margin-top:20px; font-weight:600;
+}
+
+#menu2z
+{
+margin-left:1%;
+}
+
+.a_footer
+{
+height:60px; width:100%; margin-top:90px; background-color:teal;
+}
+
+#a_followf
+{
+float:right; margin-right:1%; margin-top:15px;  height:60%; width:8%;
+}
+.a_icons2
+{
+padding-top:5%; padding-left:3.5%; height:61%;width:23.6%;
+}
